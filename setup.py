@@ -41,7 +41,7 @@ jax_requirements = [
     "jax==0.3.24",
     "jaxlib==0.3.24",
     "dm-haiku==0.0.8",
-    "flax",
+    "flax==0.7.0",
     "optax",
     "rlax",
     "networkx",
